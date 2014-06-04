@@ -1,0 +1,1 @@
+A variável receberá o valor 10
